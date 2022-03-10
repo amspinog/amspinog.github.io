@@ -95,7 +95,7 @@ h1 {
 
 h2 {
 	 /* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
-	font-family: ff-carina, sans-serif;
+	font-family: tgn-soft-round, sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	font-size: 1.2em;
@@ -115,7 +115,7 @@ p {
     color: #fff;
 }
 
-nav{font-family: ff-carina, sans-serif;
+nav{font-family: tgn-soft-round, sans-serif;
 	font-size: 1.5em;
 	width: 400px;
 	margin: 0 auto;
