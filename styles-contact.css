@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/web_background.jpg)
+  background: url(images/web_bachground_3rdoption.jpg)
 		center center fixed no-repeat;
 		background-size: cover;
 	
@@ -71,7 +71,7 @@ html, body {
     width: 800px;
 	padding: 5%;
     margin: 100px auto;
- 	background: rgba(256, 256, 256, .30); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(256, 256, 256, .0);
 	text-align: center;
 	
 }
@@ -95,7 +95,7 @@ h1 {
 
 h2 {
 	 /* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
-	font-family: tgn-soft-round, sans-serif;
+	font-family: tgn-soft-round;
 	font-weight: 400;
 	font-style: normal;
 	font-size: 1.2em;
@@ -115,13 +115,15 @@ p {
     color: #fff;
 }
 
-nav{font-family: tgn-soft-round, sans-serif;
+nav{
+	font-family: tgn-soft-round;
 	font-size: 1.5em;
 	width: 400px;
 	margin: 0 auto;
 	border-width: 3px 0;
    text-align: center;
    margin-top: 2em;
+   background: rgb(256, 256, 256, .40);
 	}
 nav li{
 	display:inline;
@@ -139,5 +141,5 @@ a{
 	}
 
 a:hover{
-	color: rgb(248, 245, 245);
+	color: rgb(123, 121, 130);
 	}
