@@ -69,7 +69,7 @@ html, body {
 
 .center {
     width: 800px;
-	padding: 2%;
+	padding: 5%;
     margin: 100px auto;
  	background: rgba(256, 256, 256, .30); /*this uses opacity of 75% for the background color*/
 	text-align: center;
@@ -95,10 +95,10 @@ h1 {
 
 h2 {
 	 /* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
-	 font-family: ff-carina, sans-serif;
-	 font-weight: 400;
-	 font-style: normal;
-	 font-size: 1.5em;
+	font-family: ff-carina, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1.5em;
     line-height: 1.4;
     color: #fff;
     padding: 0px 0px;
