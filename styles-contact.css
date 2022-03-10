@@ -71,7 +71,7 @@ html, body {
     width: 800px;
 	padding: 5%;
     margin: 100px auto;
- 	background: rgba(256, 256, 256, .0);
+ 	background: rgba(256, 256, 256, .25);
 	text-align: center;
 	
 }
@@ -107,7 +107,7 @@ h2 {
 
 p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */		
-	font-family: ff-carina, sans-serif;
+	font-family: learning-curve;
 	font-weight: 400;
 	font-style: normal;	
 	font-size: 1.2em;
@@ -116,7 +116,9 @@ p {
 }
 
 nav{
-	font-family: tgn-soft-round;
+	font-family: learning-curve;
+	font-weight: 400;
+	font-style: normal;
 	font-size: 1.5em;
 	width: 400px;
 	margin: 0 auto;
@@ -125,6 +127,7 @@ nav{
    margin-top: 2em;
    background: rgb(256, 256, 256, .40);
 	}
+
 nav li{
 	display:inline;
 	} 
