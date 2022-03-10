@@ -68,10 +68,10 @@ html, body {
 }
 
 .center {
-    width: 800px;
+    width: 600px;
 	padding: 5%;
     margin: 100px auto;
- 	background: rgba(256, 256, 256, .25);
+ 	background: rgb(256, 256, 256, .20);
 	text-align: center;
 	
 }
@@ -119,13 +119,14 @@ nav{
 	font-family: learning-curve;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 1.5em;
-	width: 400px;
+	font-size: 1.2em;
+	width: 500px;
 	margin: 0 auto;
-	border-width: 3px 0;
+	border: solid rgb(71, 55, 55);
+	border-width: 1px 0;
    text-align: center;
    margin-top: 2em;
-   background: rgb(256, 256, 256, .40);
+   background: rgb(256, 256, 256, .0);
 	}
 
 nav li{
@@ -144,5 +145,5 @@ a{
 	}
 
 a:hover{
-	color: rgb(123, 121, 130);
+	color: rgb(231, 193, 143);
 	}
